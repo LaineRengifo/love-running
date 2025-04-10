@@ -1,28 +1,50 @@
-Welcome,
+# Love Running
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Welcome to **Love Running**, a website dedicated to connecting runners of all levels and promoting a healthy, active lifestyle.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: March 3rd, 2023
-Codeanywhere Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- **Community Events**: Join local running events and meet like-minded individuals.
+- **Training Plans**: Access tailored training programs for beginners, intermediates, and advanced runners.
+- **Blog**: Read articles on running tips, nutrition, and motivation.
+- **Gear Recommendations**: Discover the best running gear for your needs.
 
-python3 -m http.server
+## Purpose
 
-A button should appear to click: Open Preview or Open Browser.
+Our mission is to inspire people to embrace running as a way to improve physical and mental well-being while fostering a supportive community.
 
-To run a backend Python file, type python3 app.py, if your Python file is named app.py of course.
+## Technologies Used
 
-A button should appear to click: Open Preview or Open Browser.
+- **HTML5**: For structuring the website.
+- **CSS3**: For styling and responsive design.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the sudo (superuser do) command in the bash terminal in any of the lessons.
+## Folder Structure
 
-To log into the Heroku toolbelt CLI:
+```
+love-running/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── images/
+│   │   └── logo.png
+│   └── js/
+│       └── script.js
+├── index.html
+└── README.md
+```
+## How to Get Started
 
-    Log in to your Heroku account and go to Account Settings in the menu under your avatar.
-    Scroll down to the API Key and click Reveal
-    Copy the key
-    In Codeanywhere, from the terminal, run heroku_config
-    Paste in your API key when asked
+1. Visit the website.
+2. Explore the resources and join the community.
+3. Start your running journey today!
 
-You can now use the heroku CLI program - try running heroku apps to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with Regenerate API Key.
+## Contributing
+
+We welcome contributions! Feel free to submit issues or pull requests to improve the website.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+Happy running! 🏃‍♀️🏃‍♂️
